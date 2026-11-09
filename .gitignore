@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+docker-compose.override.yml
+data/repos/
+data/reports/
+data/settings.json
+.venv/
+*.egg-info/
+.pytest_cache/
+scripts/.secret_patterns
+temp/
